@@ -1,7 +1,5 @@
 package org.nickgrant.example.models;
 
-import com.sun.org.slf4j.internal.Logger;
-import com.sun.org.slf4j.internal.LoggerFactory;
 import org.junit.Test;
 import org.nickgrant.example.enums.US;
 
